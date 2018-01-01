@@ -1,6 +1,6 @@
 {
-  "name": "gulp",
-  "version": "4.0.0",
+  "name": "gulp4",
+  "version": "4.0.3",
   "description": "The streaming build system.",
   "homepage": "http://gulpjs.com",
   "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "glob-watcher": "^5.0.0",
-    "gulp-cli": "^2.0.0",
+    "gulp-cli4": "^0.1.0",
     "undertaker": "^1.0.0",
     "vinyl-fs": "^3.0.0"
   },

@@ -7,6 +7,15 @@
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![OpenCollective Backers][backer-badge]][backer-url] [![OpenCollective Sponsors][sponsor-badge]][sponsor-url] [![Gitter chat][gitter-image]][gitter-url]
 
+## What is gulp4?
+
+### A new package for gulp@next (Make install easy).
+
+### Real version: **4.0.0**
+
+### The new cli is: gulp4, only use in npm run
+
+
 
 ## What is gulp?
 
@@ -35,7 +44,7 @@ For a Getting started guide, API docs, recipes, making a plugin, etc. check out 
 This file will give you a taste of what gulp does.
 
 ```js
-var gulp = require('gulp');
+var gulp = require('gulp4');
 var less = require('gulp-less');
 var babel = require('gulp-babel');
 var concat = require('gulp-concat');
@@ -136,7 +145,7 @@ Then create a **.babelrc** file with the preset configuration.
 And here's the same sample from above written in **ES2015**.
 
 ```js
-import gulp from 'gulp';
+import gulp from 'gulp4';
 import less from 'gulp-less';
 import babel from 'gulp-babel';
 import concat from 'gulp-concat';
