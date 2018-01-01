@@ -7,7 +7,12 @@
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![OpenCollective Backers][backer-badge]][backer-url] [![OpenCollective Sponsors][sponsor-badge]][sponsor-url] [![Gitter chat][gitter-image]][gitter-url]
 
+# Note: This package is deprecated. Because the `gulp@next` (4.0.0) is now available.
+
+# 注意：该包已被启用。因为已经可以通过 `gulp@next` 很容易的安装 `gulp 4.x`.
+
 ## What is gulp4?
+
 
 ### A new package for gulp@next (Make install easy).
 
